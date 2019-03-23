@@ -1,0 +1,14 @@
+{
+  "name": "primer_entregable",
+  "version": "1.0.1",
+  "description": "primer entregable",
+  "main": "HistoriaUsuario1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Agudelo damira0524@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
