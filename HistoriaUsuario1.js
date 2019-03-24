@@ -23,7 +23,7 @@ curso2(2,'Ingles',42,180000);
 curso3(3,'Seguridad',48,50000);
 
 app.get('/', function (req, res) {
-  res.send(curso1 +'<br>' + curso2 +' <br>' + curso3)
+  res.send(curso1 +' <br> ' + curso2 +' <br>' + curso3)
 })
  
 app.listen(3000)

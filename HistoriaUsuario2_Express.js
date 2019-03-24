@@ -80,7 +80,7 @@ let {id,nombre,cedula}= estudiante;
 	app.listen(3000)	
 	}
 	else{
-		moostrarPantalla = ('El estudiante ' + nombre  + '\n' + 'con id numero ' + id + '\n'+
+		moostrarPantalla = (' El estudiante ' + nombre  + '\n' + 'con id numero ' + id + '\n'+
 			'identificado con Cedula ' + cedula + '\n' + ' se ha matriculado en el curso con id numero ' + estudianteCurso.id + '\n' +
 			'el nombre del curso es '+ estudianteCurso.nombre + ' con una duracion de '+ estudianteCurso.duracion + ' y un valor de ' + estudianteCurso.valor + ' pesos Colombianos')
 		
