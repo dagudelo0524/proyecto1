@@ -91,7 +91,5 @@ let {id,nombre,cedula}= estudiante;
 			})
  
 			app.listen(3000)
-
-	
 		
 	}	
